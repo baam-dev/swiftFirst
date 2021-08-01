@@ -1,7 +1,8 @@
 //
+// simply shows a text and an image
 //  ViewController.swift
 //  i am rich
-//
+// 
 //  Created by Amir Bakhshi on 2021-06-22.
 //
 
